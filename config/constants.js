@@ -1,0 +1,1 @@
+export const BASE_URL = "https://homolog-touchsmart.grupotechnos.com.br";
