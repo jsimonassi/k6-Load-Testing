@@ -3,6 +3,6 @@ const __randomDate = (start, end) => {
 }
 
 export const addRandomDate = (obj) => {
-    obj["registered_at"] = __randomDate(new Date(2020, 0, 1), new Date()).toISOString();
+    obj["registered_at"] = __randomDate(new Date(1990, 0, 1), new Date()).toISOString();
     return obj;
 }

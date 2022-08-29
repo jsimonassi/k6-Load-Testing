@@ -1,4 +1,4 @@
-export const BASE_URL = "https://homolog-mormaiismartwatches.grupotechnos.com.br";
+export const BASE_URL = "https://teste-technosconnect.grupotechnos.com.br";
 export const API_V2 = "/api/v2/";
 export const API_V3 = "/api/v3/";
 
@@ -7,13 +7,13 @@ export const AVAILABLE_SLUGS = {
 }
 
 export const USER_INFOS = {
-    EMAIL: "mecowa5073@ukgent.com",
-    PASSWORD: "Technos@123",
+    EMAIL: "jaroli8850@seinfaq.com",
+    PASSWORD: "string",
 }
 export const SESSION_INFO = {
-    TOKEN: "ZuwM5BDHJG0vKGIHE3-_5A",
-    CLIENT: "KFINZrev9vMVY5zq_ysvVA",
-    USER_ID: "mecowa5073@ukgent.com"
+    TOKEN: "l3fhjIgIPnCHYkkusa3hDg",
+    CLIENT: "K1BWqdN3DDLLpJuwZazJBg",
+    USER_ID: "jaroli8850@seinfaq.com"
 }
 
 export const DEFAULT_PARAMS = {
